@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C569B9F5-386D-4A1B-97D1-786E8415C29C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Contador</RootNamespace>
+    <AssemblyName>Contador</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Mireles\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>835D8B2EFB4BBA3B7E1AEEE3624C96A2866DE5B7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Contador_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Contadorlg.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeStandard, Version=2.2.10.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarcodeLib.2.2.10\lib\netstandard2.0\BarcodeStandard.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.8.0.2, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.4.5.1\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alerta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alerta1.Designer.cs">
+      <DependentUpon>Alerta1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alerta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alerta2.Designer.cs">
+      <DependentUpon>Alerta2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alerta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alerta3.Designer.cs">
+      <DependentUpon>Alerta3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alerta4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alerta4.Designer.cs">
+      <DependentUpon>Alerta4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlertaMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlertaMantenimiento.Designer.cs">
+      <DependentUpon>AlertaMantenimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImpScrap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImpScrap.Designer.cs">
+      <DependentUpon>ImpScrap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImpScrap2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImpScrap2.Designer.cs">
+      <DependentUpon>ImpScrap2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParosProgramados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParosProgramados.Designer.cs">
+      <DependentUpon>ParosProgramados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TpOrdenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TpOrdenes.Designer.cs">
+      <DependentUpon>TpOrdenes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ValidacionOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidacionOrden.Designer.cs">
+      <DependentUpon>ValidacionOrden.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Alerta1.resx">
+      <DependentUpon>Alerta1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alerta2.resx">
+      <DependentUpon>Alerta2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alerta3.resx">
+      <DependentUpon>Alerta3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alerta4.resx">
+      <DependentUpon>Alerta4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlertaMantenimiento.resx">
+      <DependentUpon>AlertaMantenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImpScrap.resx">
+      <DependentUpon>ImpScrap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImpScrap2.resx">
+      <DependentUpon>ImpScrap2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParosProgramados.resx">
+      <DependentUpon>ParosProgramados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TpOrdenes.resx">
+      <DependentUpon>TpOrdenes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidacionOrden.resx">
+      <DependentUpon>ValidacionOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Contador_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cerrar-ventana-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-maximizar-la-ventana-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-minimizar-la-ventana-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restaurar-ventana-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-star-half-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-star-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logELDISY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logELDISY1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logELDISY2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contadorlg.ico" />
+    <None Include="Resources\icons8-microsoft-excel-2019-96.png" />
+    <None Include="Resources\icons8-menú-96.png" />
+    <None Include="Resources\icons8-portal-de-mantenimiento-en-línea-96.png" />
+    <Content Include="Resources\icons8-última-hora-96.png" />
+    <None Include="Resources\icons8-última-hora-961.png" />
+    <Content Include="Resources\Mas.png" />
+    <None Include="Resources\Scrap.png" />
+    <None Include="Resources\save--v1.png" />
+    <None Include="Resources\menos1.png" />
+    <None Include="Resources\Mas1.png" />
+    <Content Include="Resources\menos.png" />
+    <None Include="Resources\imprimir.png" />
+    <None Include="Resources\Sign-check-icon.png" />
+    <None Include="Resources\boton5.png" />
+    <None Include="Resources\alerta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,443 @@
+C:\Users\a.llamas\source\repos\Contador\Contador\bin\Debug\Contador.exe.config
+C:\Users\a.llamas\source\repos\Contador\Contador\bin\Debug\Contador.exe
+C:\Users\a.llamas\source\repos\Contador\Contador\bin\Debug\Contador.pdb
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.exe
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.pdb
+C:\Users\a.llamas\source\repos\Contador\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\a.llamas\source\repos\Contador\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\a.llamas\source\repos\Contador\Contador\obj\Debug\Contador.TpOrdenes.resources
+D:\Contador\Contador\bin\Debug\Contador.exe.config
+D:\Contador\Contador\bin\Debug\Contador.exe
+D:\Contador\Contador\bin\Debug\Contador.pdb
+D:\Contador\Contador\bin\Debug\BarcodeStandard.dll
+D:\Contador\Contador\bin\Debug\System.Drawing.Common.dll
+D:\Contador\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+D:\Contador\Contador\obj\Debug\Contador.Form1.resources
+D:\Contador\Contador\obj\Debug\Contador.Properties.Resources.resources
+D:\Contador\Contador\obj\Debug\Contador.TpOrdenes.resources
+D:\Contador\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+D:\Contador\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+D:\Contador\Contador\obj\Debug\Contador.csproj.CopyComplete
+D:\Contador\Contador\obj\Debug\Contador.exe
+D:\Contador\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\source\repos\Contador\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\source\repos\Contador\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\source\repos\Contador\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\source\repos\Contador\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\source\repos\Contador\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\source\repos\Contador\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\source\repos\Contador Para pruevas de vistas\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\source\repos\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.0\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.2\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3\Contador\obj\Debug\Contador.pdb
+F:\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.exe.config
+F:\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.exe.manifest
+F:\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.application
+F:\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.exe
+F:\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.pdb
+F:\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\BarcodeStandard.dll
+F:\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\System.Drawing.Common.dll
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Alerta1.resources
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Alerta2.resources
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Alerta3.resources
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Form1.resources
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Properties.Resources.resources
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.TpOrdenes.resources
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.ValidacionOrden.resources
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.exe.manifest
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.application
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csproj.CopyComplete
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.exe
+F:\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 - copia\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta4.resources
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mireles\Desktop\Respaldos programas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta4.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap.resources
+C:\Users\Mireles\Videos\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta4.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta4.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Alerta4.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ImpScrap2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 billion diseño 2\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.exe.config
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.pdb
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csprojAssemblyReference.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.ResolveComReference.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta4.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.ImpScrap.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.ImpScrap2.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.application
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.exe
+C:\Users\Mireles\Desktop\Nueva carpeta (2)\Actualizacion\segundo punto tipos de cajas\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.pdb
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.exe.config
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.exe.manifest
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.application
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.exe
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\Contador.pdb
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\BarcodeStandard.dll
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\bin\Debug\System.Drawing.Common.dll
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.AssemblyReference.cache
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Interop.WMPLib.dll
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.ResolveComReference.cache
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta1.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta2.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta3.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Alerta4.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.ImpScrap.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.ImpScrap2.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.TpOrdenes.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.ValidacionOrden.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.exe.manifest
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.application
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.CopyComplete
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.exe
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.pdb
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.AlertaMantenimiento.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.ParosProgramados.resources
+C:\Users\j.mireles\OneDrive - Vorwerk Autotec\Documentos\Contador Para pruevas de vista 2.3.1 Billion\Contador\obj\Debug\Contador.csproj.SuggestedBindingRedirects.cache

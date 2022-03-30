@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c569b9f5-386d-4a1b-97d1-786e8415c29c": {
+      "ProjectGuid": "c569b9f5-386d-4a1b-97d1-786e8415c29c",
+      "DisplayName": "Contador",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
